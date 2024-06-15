@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1703153277 source:c:\个人资料\c++编程文件\codeblocks\code152----c++课程设计之小学生算术运算系统\main.cpp
+	<iostream>
+	<string>
+	<stack>
+	<fstream>
+	<algorithm>
+	<windows.h>
+	<mmsystem.h>
+	<cctype>
+	<cmath>
+	<ctime>
+	<chrono>
+	<thread>
+
+1703217492 source:c:\个人资料\c++编程文件\codeblocks\code153----c++课程设计之小学生算术运算系统\main.cpp
+	<iostream>
+	<string>
+	<stack>
+	<fstream>
+	<algorithm>
+	<windows.h>
+	<cctype>
+	<cmath>
+	<ctime>
+	<random>
+
+1703217492 source:c:\个人资料\编程文件\c++编程文件\codeblocks\code153----c++课程设计之小学生算术运算系统\main.cpp
+	<iostream>
+	<string>
+	<stack>
+	<fstream>
+	<algorithm>
+	<windows.h>
+	<cctype>
+	<cmath>
+	<ctime>
+	<random>
+
